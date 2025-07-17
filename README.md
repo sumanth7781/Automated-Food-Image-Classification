@@ -12,6 +12,8 @@ This project implements an automated food image classification system using pre-
 - **Python**
 - **Matplotlib** – For visualizing results and data
 - (Optional: NumPy, OpenCV, SciPy depending on implementation)
+## More about DataSet
+use this link : https://www.kaggle.com/datasets/kmader/food41/data
 ## 🚀 How to Run
 1. **Clone the Repository**
    ```bash
