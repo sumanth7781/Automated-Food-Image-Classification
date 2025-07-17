@@ -12,10 +12,23 @@ This project implements an automated food image classification system using pre-
 - **Python**
 - **Matplotlib** – For visualizing results and data
 - (Optional: NumPy, OpenCV, SciPy depending on implementation)
-
 ## 🚀 How to Run
-
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/your-username/food-image-classification.git
    cd food-image-classification
+📂 Output
+Loads a food image.
+
+Classifies the image using a pre-trained model.
+
+Displays the predicted class and confidence.
+📊 Example Output
+vbnet
+Copy
+Edit
+Input: pasta.jpg  
+Predicted Class: Pasta  
+Confidence: 94.7%
+
+Plots the result using Matplotlib.
